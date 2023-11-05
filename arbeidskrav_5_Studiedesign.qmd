@@ -1,8 +1,8 @@
 ---
 title: "Arbeidskrav_5_Studiedesign"
 author: "Christian G. Jenssen"
-format: docx
+format: html
 editor: visual
 ---
 
-## Studiedesing
+## Studiedesign
